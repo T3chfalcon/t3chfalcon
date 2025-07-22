@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **anything/everything about Offensive Security**
 
-- 💬 Ask me about **Malware Development, Red Teaming, Cybersecurity?**
+- 💬 Ask me about **Malware Development, Red Teaming, Cybersecurity**
 
 - 📫 How to reach me **on X @t3chfalcon**
 
